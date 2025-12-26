@@ -29,9 +29,8 @@ I'm **Martin**, a **Full Stack Developer** passionate about building clean, scal
 - Web performance and optimization
 
 ### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Portfolio](https://your-portfolio.com)
-- [Email](mailto:your.email@example.com)
+- [Portfolio](Coming...)
+- [Email](bgm89044@gmail.com)
 
 ### ⚡ Fun fact
 I enjoy turning messy problems into elegant, maintainable code and occasionally experimenting with AI for coding productivity.
